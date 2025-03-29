@@ -1,0 +1,1 @@
+public class PlayerSkill : EntitySkill<PlayerSkillEnum> { }

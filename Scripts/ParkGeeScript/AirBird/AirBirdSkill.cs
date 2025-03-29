@@ -1,0 +1,1 @@
+public class AirBirdSkill : EntitySkill<AirBirdSkillEnum> { };

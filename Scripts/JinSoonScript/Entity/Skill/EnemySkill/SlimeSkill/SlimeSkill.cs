@@ -1,0 +1,1 @@
+public class SlimeSkill : EntitySkill<SlimeSkillEnum> { }
