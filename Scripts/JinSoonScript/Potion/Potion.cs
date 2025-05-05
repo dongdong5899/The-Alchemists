@@ -5,8 +5,8 @@ using UnityEngine;
 
 public enum PotionType
 {
-    Drink = 31,
-    Throw = 37
+    Drink = 37,
+    Throw = 41
 }
 
 [Serializable]
